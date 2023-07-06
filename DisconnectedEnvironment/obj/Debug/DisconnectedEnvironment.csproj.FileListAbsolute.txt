@@ -1,0 +1,17 @@
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.exe.config
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.exe
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\bin\Debug\DisconnectedEnvironment.pdb
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.AssemblyReference.cache
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.SuggestedBindingRedirects.cache
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Form1.resources
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Form2.resources
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Form3.resources
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Form4.resources
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.Properties.Resources.resources
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.GenerateResource.cache
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.csproj.CoreCompileInputs.cache
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.exe
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\DisconnectedEnvironment.pdb
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\Disconnected_Environment.Data_Prodi.resources
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\Disconnected_Environment.Halaman_Data_Mahasiswa.resources
+C:\Users\dhiya\OneDrive\Dokumen\SEMESTER 4\DisconnectedEnvironment\DisconnectedEnvironment\obj\Debug\Disconnected_Environment.Data_Status_Mahasiswa.resources
